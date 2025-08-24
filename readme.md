@@ -41,7 +41,25 @@ El programa permite elegir entre tres tipos de conversores:
 4. **Salir**
 - Finaliza el programa.
 
-Si el usuario ingresa una opción inválida, el programa muestra un mensaje y regresa al menú inicial.
+---
+
+### `2_formulario_usuarios.py`
+
+
+Formulario en Consola - Tipos de Datos en Python
+Este proyecto consiste en un script en Python que solicita información al usuario desde la consola, utilizando distintos tipos de datos (cadenas, enteros, flotantes y booleanos).
+Además, incluye validaciones para asegurar que el usuario ingrese datos correctos según el tipo esperado.
+
+---
+
+### Funcionalidades
+
+- Solicita el nombre y el apellido (validados como cadenas sin números).
+- Solicita la edad, validada como número entero.
+- Solicita la estatura, validada como número decimal (float).
+- Pregunta si el usuario es estudiante, con respuesta de tipo booleano (True o False).
+- Muestra un resumen final con todos los datos ingresados.
+
 
 ---
 
