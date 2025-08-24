@@ -60,6 +60,22 @@ Además, incluye validaciones para asegurar que el usuario ingrese datos correct
 - Pregunta si el usuario es estudiante, con respuesta de tipo booleano (True o False).
 - Muestra un resumen final con todos los datos ingresados.
 
+---
+
+### `3-condicionales.py`
+
+Este programa aplica el uso de estructuras de control de flujo en Python (if, elif, else) para resolver un problema simple: determinar si un número es positivo, negativo o cero.
+Además, se incluye una validación de entrada que garantiza que el usuario ingrese solo valores numéricos (enteros o flotantes).
+
+---
+
+### Funcionalidades
+
+- El usuario ingresa un número.
+- El programa valida que efectivamente sea un número (admite tanto int como float).
+- Se determina si el número ingresado es: Positivo, negativo o cero
+
+Si el número no tiene decimales (ejemplo: 5.0), el programa lo muestra como un entero (5) para mejorar la presentación.
 
 ---
 
